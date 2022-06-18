@@ -1,0 +1,33 @@
+
+.topbackgroud {
+	width: 100%;
+}
+.imgicon {
+	height: 70rpx;
+}
+.yijianshipuicon {
+	padding: 120rpx 0;
+	width: 260rpx;
+}
+.center {
+	height: 510rpx;
+	background-image: url(https://s4.ax1x.com/2022/02/16/HhTEtA.png);
+	background-position: center 0;
+	background-repeat: no-repeat;
+	background-size: 500rpx;
+}
+.fuyaotixing {
+	height: 300rpx;
+	background-image: url(https://s4.ax1x.com/2022/02/16/HhT8ts.png);
+	background-position: center 0;
+	background-repeat: no-repeat;
+	background-size: 300rpx;
+}
+.yuyinzhushou {
+	height: 300rpx;
+	background-image: url(https://s4.ax1x.com/2022/02/16/HhT8ts.png);
+	background-position: center 0;
+	background-repeat: no-repeat;
+	background-size: 300rpx;
+}
+

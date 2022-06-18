@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/jiankangduixian/jiankangduixian",
+    "pages/more/more",
+    "pages/me/me",
+    "pages/fuyaotixing/fuyaotixing",
+    "pages/more/scan/scan",
+    "pages/yijiandaojia/yijiandaojia"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#f1e4cf",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image6.png",
+        "selectedIconPath": "static/image6.png",
+        "text": "营养食搭"
+      },
+      {
+        "pagePath": "pages/jiankangduixian/jiankangduixian",
+        "iconPath": "static/image8.png",
+        "selectedIconPath": "static/image8.png",
+        "text": "健康对线"
+      },
+      {
+        "pagePath": "pages/yijiandaojia/yijiandaojia",
+        "iconPath": "static/房子.png",
+        "selectedIconPath": "static/房子.png",
+        "text": "一键到家"
+      },
+      {
+        "pagePath": "pages/more/more",
+        "iconPath": "static/HhvS1J.png",
+        "selectedIconPath": "static/HhvS1J.png",
+        "text": "更多"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "iconPath": "static/image10.png",
+        "selectedIconPath": "static/image10.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
